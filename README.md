@@ -1,2 +1,2 @@
-# TCI - Universal Transceiver Control Interface
+# TCI - Transceiver Control Interface
 
